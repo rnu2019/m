@@ -1,2 +1,16 @@
 #EXTM3U
-#EXTINF:-1,
+
+#EXTINF:-1 tvg-logo="https://iili.io/COtmYDx.png", Redrum 480
+https://ktyhgh.b-cdn.net/upload/videos/2023/03/[Fibwatch.Com]Redrum.(2022).Bengali.480p.mkv
+
+#EXTINF:-1 tvg-logo="https://iili.io/COtmYDx.png", Redrum 720
+https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CineFreak.ME%20-%20Redrum%20%282022%29%20Bengali%20720p.mkv
+#EXTINF:-1 tvg-logo="https://iili.io/COtmYDx.png", Redrum
+https://ktyhgh.b-cdn.net/upload/videos/2023/03/[Fibwatch.Com]Redrum.(2022).Bengali.720p.mkv
+
+#EXTINF:-1 tvg-logo="https://iili.io/COtmYDx.png", Redrum 1080
+https://pub-8c79de94b5804d1fae2b2601da8a09cc.r2.dev/CINEFREAK.ME%20-%20Redrum%20%282022%29%20Bengali%201080p.mkv
+#EXTINF:-1 tvg-logo="https://iili.io/COtmYDx.png", Redrum
+https://ktyhgh.b-cdn.net/upload/videos/2023/03/[Fibwatch.Com]Redrum.(2022).Bengali.1080p.mkv
+#EXTINF:-1 tvg-logo="https://iili.io/COtmYDx.png", Redrum
+http://10.10.10.3/Data/Indian%20Bangla/new/Redrum%20(2022)/Redrum.mp4
