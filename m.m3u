@@ -1,28 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://iili.io/CODgfPj.png", Rockstar 720
-https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Rockstar%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%20720p%20ESub.mkv
-#EXTINF:-1 tvg-logo="https://iili.io/CODgfPj.png", Rockstar
-https://pub-f85680743e6f48c3b210af18613f778c.r2.dev/98dfccd2236facdc4d01abebdfa0bb57?t=1784914823&token=6db74f3219bdcab860201bdd9047fd9da6feb364ecf6eb45c205811ef7dc82b8
-#EXTINF:-1 tvg-logo="https://iili.io/CODgfPj.png", Rockstar
-https://may26.movielinkbd.mom/98dfccd2236facdc4d01abebdfa0bb57?t=1784914823&token=6db74f3219bdcab860201bdd9047fd9da6feb364ecf6eb45c205811ef7dc82b8
-#EXTINF:-1 tvg-logo="https://iili.io/CODgfPj.png", Rockstar
-https://pub-daf830b130324f00b16d896a866e239f.r2.dev/446656d5cc642b951ed8832125e8cfa8d9baf609?response-content-disposition=attachment&_t=1784914875
-
-
-#EXTINF:-1 tvg-logo="https://iili.io/CODgfPj.png", Rockstar 1080
-http://10.10.10.3/Data/Indian%20Bangla/new/Rockstar%20(2026)/Rockstar%20(2026).mkv
-#EXTINF:-1 tvg-logo="https://iili.io/CODgfPj.png", Rockstar 1080
-https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Rockstar%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv
-#EXTINF:-1 tvg-logo="https://iili.io/CODgfPj.png", Rockstar
-https://pub-f85680743e6f48c3b210af18613f778c.r2.dev/2597e22e8c4ec391742112c9b46a1128?t=1784914624&token=405b8e6545e314045f3165720e3ca53530726c0bd9a844cfc972f5bd22e010ab
-#EXTINF:-1 tvg-logo="https://iili.io/CODgfPj.png", Rockstar
-https://may26.movielinkbd.mom/2597e22e8c4ec391742112c9b46a1128?t=1784914624&token=405b8e6545e314045f3165720e3ca53530726c0bd9a844cfc972f5bd22e010ab
-#EXTINF:-1 tvg-logo="https://iili.io/CODgfPj.png", Rockstar
-https://pub-daf830b130324f00b16d896a866e239f.r2.dev/153252dab04b59dbb244818e01ce68614f4b94e3?response-content-disposition=attachment&_t=1784912413
-
+#EXTINF:-1 tvg-logo="http://10.10.10.3/content-images/movies/posters//mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg", Send Help
+https://pub-57f9ff09e09d42f682f550f90304d532.r2.dev/CINEFREAK.TOP%20-%20Send%20Help%20%282026%29%20WEB-DL%20%5BEnglish%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="http://10.10.10.3/content-images/movies/posters//mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg", Send Help
+https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Send%20Help%20%282026%29%20WEB-DL%20%5BEnglish%5D%20720p%20ESub.mkv
+#EXTINF:-1 tvg-logo="http://10.10.10.3/content-images/movies/posters//mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg", Send Help
+http://10.10.10.3/Data/English/hollywood/2026/Send%20Help%20(2026)/Send.Help.2026.720p.WEBRip.x264.AAC-[YTS.BZ].mp4
 
 #EXTINF:-1 tvg-logo="http://10.10.10.3/content-images/movies/posters//8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg", Oppenheimer
 http://10.10.10.3/Data/English/hollywood/2023/Oppenheimer%20(2023)/Oppenheimer.mp4
 #EXTINF:-1 tvg-logo="http://10.10.10.3/content-images/movies/posters//8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg", Oppenheimer
 https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.ME%20-%20Oppenheimer%20%282023%29%20%5BHindi%20ORG.%20%2B%20English%5D%20iMAX%20720p%20BluRay.mkv
+
+#EXTINF:-1 tvg-logo="http://10.10.10.3/content-images/movies/posters//tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg", Crime 101
+http://10.10.10.3/Data/English/hollywood/2026/Crime%20101%20(2026)/Crime.101.2026.720p.WEBRip.x264.AAC-[YTS.BZ].mp4
+#EXTINF:-1 tvg-logo="http://10.10.10.3/content-images/movies/posters//tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg", Crime 101
+https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Crime%20101%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20AMZN%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="http://10.10.10.3/content-images/movies/posters//tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg", Crime 101
+https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Crime%20101%20%282026%29%20WEB-DL%20%5BHindi-English%5D%20AMZN%201080p%20HEVC%20ESub.mkv
