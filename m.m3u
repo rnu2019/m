@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="", basel-vs-fc-barcelona
+https://live2.jxa76.com/live/sd-6MxiKJhWn6KVsSDquD_540p.m3u8?txSecret=38fced72fbea6a79a4a5ce8d75a303a2&txTime=1A00C447817
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojWSVt7O92ZLtEUyQs8u5pRI40b.jpg", A Woman Called Mother
 
 #EXTINF:-1 tvg-logo="http://10.10.10.3/content-images/movies/posters//8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg", Oppenheimer
