@@ -7,8 +7,12 @@ https://live2.jxa76.com/live/sd-6MxiKJhWn6KVsSDquD_540p.m3u8?txSecret=38fced72fb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
 https://edgestream6.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+
 #EXTINF:-1 tvg-logo="", basel-vs-fc-barcelona
-https://streamfree.top/live/barcelona-vs-fc-basel720p/index.m3u8?_t=rgmlqyHhRscz3vq-EN-nUw&_e=1786921238&_n=f0a740927f174aa8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+https://streamfree.top/live/barcelona-vs-fc-basel720p/index.m3u8?_t=8ct77911XJRXe62nxVojSQ&_e=1786921534&_n=e7795e8848c0a344
+
 #EXTINF:-1 tvg-logo="", basel-vs-fc-barcelona
 https://912ac5c8a38e08c.powernetwork.me/kooora/6f86bdcsedfssis02ss00d01dsxmax333_kc_sd?ts=1786892553&nonce=uIEZ1zex&token=160dcfcd8c61de92934506a73423723e&sid=f131ef25d539cb3a00b1d2e18f00afe0
 #EXTINF:-1 tvg-logo="", basel-vs-fc-barcelona
