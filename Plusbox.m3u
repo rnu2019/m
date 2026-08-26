@@ -1,0 +1,166 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3w6F5VZ5/20240822-231514.png",Colors Bangla
+https://backend.plusbox.tv/ColorsBangla/index.fmp4.m3u8?token=631b92d9c7728040cbd583c8e64cef45c9d51f68-38176d232b5bc447bfbc97ebdfabbbdf-1787780754-1787769954
+
+#EXTINF:-1 tvg-logo="",Bloomberg TV
+https://backend.plusbox.tv/BloombergTV/index.fmp4.m3u8?token=21911d7aae646f637b6a06c6fb0ff3c83fba94e0-2d4d922f7d14838a409fd4bd14c97317-1787780776-1787769976
+
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1777454219313.png",Al Jazeera
+https://backend.plusbox.tv/Aljazeera/index.fmp4.m3u8?token=b80c7edb04da56ed93f50658c25731b488389ad6-da1256f1874e45ddef21d0963d645fb4-1787780772-1787769972
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/India_Today_TV.jpg",India Today
+https://backend.plusbox.tv/IndiaToday/index.fmp4.m3u8?token=a786e3f5f5a5597d8053c07abfa8e3ee1895825e-14f2ae47763b333894b8d5556d87dc44-1787780760-1787769960
+
+#EXTINF:-1 tvg-logo="",Russia Today
+https://backend.plusbox.tv/RussiaToday/index.fmp4.m3u8?token=a66eeb9c8e7fc2bdb3536123dd37f59ffb06643e-12b6f9f84bacd548e5b4f82d760352f8-1787780763-1787769963
+
+#EXTINF:-1 tvg-logo="",PTV Sports
+https://backend.plusbox.tv/PTVSports/index.fmp4.m3u8?token=a95fbae29d4b9c426e9a22aa18c127e53c81f50a-396191bd3bd524fa19e14ea3a9d766e5-1787780800-1787770000
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/359/logo/240x240/mobile_logo_835681001673175607.png",Animal Planet
+https://backend.plusbox.tv/AnimalPlanet/index.fmp4.m3u8?token=31c6840c34efeec7837910c22cc02059791d290a-3a43591488ee1d565a8027d4428081ef-1787780796-1787769996
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png",Discovery HD
+https://backend.plusbox.tv/DiscoveryHD/index.fmp4.m3u8?token=80582560d6df6b650de874d0e8c9b0b5ea92490c-553c540fb534e728c84f69b22586ac37-1787780782-1787769982
+
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png",Sony Aath
+https://backend.plusbox.tv/SonyAath/index.fmp4.m3u8?token=4c8424daa238c2b22a60fb12bbd62eb22f9bf196-851906c9660fcbf4c7dd3d0d67bc8bef-1787780805-1787770005
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp",Sony TV HD
+https://backend.plusbox.tv/SonyTVHD/index.fmp4.m3u8?token=03b951391e39d33dee345653ba673c4600440998-fd57f8eaee777b3825f2febabaff6814-1787780803-1787770003
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png",Sony Max HD
+https://backend.plusbox.tv/SonyMaxHD/index.fmp4.m3u8?token=b73ff47f977e0c33d9cef2ea5b05a09f58d2b56e-9e7a9853ac4d261d846fcbc6a75159b7-1787780812-1787770012
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/dd/Ekhon_TV_logo.png",Ekhon TV
+https://backend.plusbox.tv/EkhonTV/index.fmp4.m3u8?token=615c8c6ded86a3c296c5429f7a56f0de2144b891-7c87224b73e8ddbdad5c7de420d809f0-1787780714-1787769914
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com//Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png",Somoy TV
+https://backend.plusbox.tv/SomoyTv/index.fmp4.m3u8?token=af645a4bfd3ea8c95261c0d2f9b1f06de82acdc4-ffcd73ecb2f5a6ec987caffef795d612-1787780710-1787769910
+
+#EXTINF:-1 tvg-logo="",RTV
+https://backend.plusbox.tv/RTV/index.fmp4.m3u8?token=959cf8dbc418c417c46e74feeb00e777cd34ef5e-dfef8ad0b8b91f33c110a4902feada06-1787780703-1787769903
+
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png",NTV
+https://backend.plusbox.tv/NTV/index.fmp4.m3u8?token=5063842f133809fed636b75c9d39900985a8e396-c5b68370237fd5720cb4af6e34a45168-1787780700-1787769900
+
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png",Star News
+https://backend.plusbox.tv/StarNews/index.fmp4.m3u8?token=ff603fc569a8e3e509a886db0ff4fd65a8ffd04e-4d5b9fa9d71580cd0078eee8fd642028-1787780695-1787769895
+
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png",News 24
+https://backend.plusbox.tv/News24/index.fmp4.m3u8?token=1ce092a2917b051b145d40ec6c75ae6d97f44051-ae68bbbd5e8b0b74fecc210a3aaacb89-1787780693-1787769893
+
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png",Star News 2
+https://backend.plusbox.tv/StarNews/index.fmp4.m3u8?token=893b9c6040c349dfa4d87711d0d7dd45c80aee0e-92e6dde6ab400e34ca6370177645c108-1787780687-1787769887
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxGF4V2b/20250529_103226.png",My TV
+https://backend.plusbox.tv/MyTV/index.fmp4.m3u8?token=de35aab6daf61df00525044288b2e04c47b189d7-15a2b4a34f79cb1f182405bddb9b02bb-1787780682-1787769882
+
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png",Maasranga
+https://backend.plusbox.tv/Maasranga/index.fmp4.m3u8?token=d5548cbf4096af2d40052492a3eec86a2fef1788-9f23e14addbcafb57dfa8a54096b428b-1787780680-1787769880
+
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png",Jamuna TV
+https://backend.plusbox.tv/JamunaTV/index.fmp4.m3u8?token=fc9e74ef3224d7d8dae4f1880937ffc8fdd0b001-d447513c9fd2ef59d918dd340d7a824d-1787780678-1787769878
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/gtv-hd-bd.png",Gazi TV HD
+https://backend.plusbox.tv/GaziTVHD/index.fmp4.m3u8?token=6d8c19069f2cae52f1c059ce5274d5b2a7820f53-357c42cb69710f4c7e80010a0b08458b-1787780675-1787769875
+
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png",Independent TV
+https://backend.plusbox.tv/IndependentTV/index.fmp4.m3u8?token=5eb3241fa9a636c2a877097330b6a6fede7ce1d1-76b2c990a3b08f849e7ab9b9be21a68d-1787780671-1787769871
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png",T Sports HD
+https://backend.plusbox.tv/TSportsHD/index.fmp4.m3u8?token=0a95a3ce6cbe3bd7dfa20aa3948d0547c33173ef-c0dda2dfc74ce222536839762ebfe900-1787780667-1787769867
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png",T Sports
+https://backend.plusbox.tv/TSports/index.fmp4.m3u8?token=2bf9c8ada2445214e2840ba062a097e829507f16-9a7aecf9f06af5a6dd2c9d39b147f455-1787780663-1787769863
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png",T Sports 2
+https://backend.plusbox.tv/TSports/index.fmp4.m3u8?token=0daa7d1be123d80853270a1d3afbc204b933532c-a5364290945705973485db3204cc4b0b-1787780659-1787769859
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/cd/Ekushey_Television_logo_2000-2002%2C_2007.png",Ekushey TV
+https://backend.plusbox.tv/EkusheyTv/index.fmp4.m3u8?token=a2f7a1640810fdd7a5d76defa1ad632485c9c499-0ff7bd1bbc8f8118c7b600a11056196d-1787780655-1787769855
+
+#EXTINF:-1 tvg-logo="https://cdn.ekattorbd.com/contents/cache/images/1200x630x1/uploads/media/2023/08/13/default-f5a63c8327b98eafee564f28c3a9ebdb.png",Ekattor TV
+https://backend.plusbox.tv/EkattorTV/index.fmp4.m3u8?token=9b1a90cfaf76b78ed348787dff2ec75939125f55-7f4ecae7927d4704b55ae70445eec732-1787780653-1787769853
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/desh-tv.png",Desh TV
+https://backend.plusbox.tv/DeshTV/index.fmp4.m3u8?token=8461c1f868fc05591e026d3bb2d8ac17c88b10bb-7c90f5d1e482bb6ed164106dcfc53ee6-1787780650-1787769850
+
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/desh-tv.png",Desh TV 2
+https://backend.plusbox.tv/DeshTV/index.fmp4.m3u8?token=dc95f2af1bf60ffd7b7dc53f6365d9e9827d0212-c23d71d5a7dbb56309cbd574c49a8a94-1787780640-1787769840
+
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png",Deepto TV
+https://backend.plusbox.tv/DeeptoTV/index.fmp4.m3u8?token=ead6fde8c6c6f1387e91d355f675ae6b445f415d-61dc3274e28b33a91754d258db7eb726-1787780637-1787769837
+
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png",Channel 9
+https://backend.plusbox.tv/Channel9/index.fmp4.m3u8?token=26f83b17b20b937a51bff80e300c0f25979e1771-271c7d33608e8469ef33dfc0fc489fbd-1787780630-1787769830
+
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png",DBC News
+https://backend.plusbox.tv/DBCNews/index.fmp4.m3u8?token=067a557b3dc2498eadce75b94ead445c10ea0838-8f8756bdc8a4fe7a9af956b778fdd7b5-1787780620-1787769820
+
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png",Channel i
+https://backend.plusbox.tv/ChannelI/index.fmp4.m3u8?token=b2374930024ee9e7fbca2e5660fd98eb151a9712-094c38ed6942a5cf36ca72f1a59ece1b-1787780615-1787769815
+
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png",Channel 24
+https://backend.plusbox.tv/Channel24/index.fmp4.m3u8?token=b13df65536d3eb62496ac2630a0e7b000c71cbd4-df0c0fa7ab9f5c6a3a039dd2e82535a7-1787780601-1787769801
+
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png",BanglaVision
+https://backend.plusbox.tv/BanglaVision/index.fmp4.m3u8?token=3088463a6bab4e5c07eccff13add9fba0ed3d76d-3365250fccce223f85196b0a4a1f2205-1787780597-1787769797
+
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg",Asian TV
+https://backend.plusbox.tv/AsianTV/index.fmp4.m3u8?token=87a20802637f0feb6e0d6bb667ae8071a8cfb375-bb0f45a01a9128220398b3c6722ddb03-1787780592-1787769792
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png",Bijoy TV
+https://backend.plusbox.tv/BijoyTV/index.fmp4.m3u8?token=2df2ae78f653eb08ef81168f4cd74e15d9bab814-75f59a46434b0ed9a3db7a7cc0b7fa0b-1787780587-1787769787
+
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png",ATN News
+https://backend.plusbox.tv/ATNNews/index.fmp4.m3u8?token=efa429f62cf4412ea3b66e369e8bc2e403b4c4f9-1cfa7076cad8c4567382b7b0816c5822-1787780584-1787769784
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_640,q_75,f_webp/MCLv35oBEef-9-uVH-D2/posters/0d1e571c-ebb2-4277-9814-760a4f1603a6.png",ATN Bangla
+https://backend.plusbox.tv/ATNBangla/index.fmp4.m3u8?token=23553a561c7f7822a12c808e8b5a85d4bb7238ce-bd2639f6bc11c2cddffa88bf24918b15-1787780580-1787769780
+
+#EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png",BTV
+https://backend.plusbox.tv/BTV/index.fmp4.m3u8?token=a0041bf6d578129af6111614e2218e60731d94d8-d166bbc55615a10a6fb3a0e05a2025dd-1787780576-1787769776
+
+#EXTINF:-1 tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png",BTV World
+https://backend.plusbox.tv/BTVWorld/index.fmp4.m3u8?token=f4a5359c72fae23f1f31d720e06df079b650fc82-833964664d64d6579e4fca54267b0fbe-1787780504-1787769704
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png",Zee Cinema HD
+https://backend.plusbox.tv/ZeeCinemaHD/index.fmp4.m3u8?token=7edf21c4764f1387a450129b9c53df8764435bf4-242d9837b51a9e1373878e26bd33d065-1787780872-1787770072
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg",Zee Bangla HD
+https://backend.plusbox.tv/ZeeBanglaHD/index.fmp4.m3u8?token=7f7edc44f5366b9ebe9f8976167a73f90591247f-aa9948eefd7001421597e1d522189af3-1787780865-1787770065
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNvkbdL4/1000114150.png",Star Gold HD
+https://backend.plusbox.tv/StarGoldHD/index.fmp4.m3u8?token=0ceebf178dd285cff749c91067faf8df13c77189-f0f6c3da960d7e751f9ad82d74ae45de-1787780862-1787770062
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png",Star Jalsha HD
+https://backend.plusbox.tv/StarJalshaHD/index.fmp4.m3u8?token=8a69350e1c75618feed1712456aaefcecf462672-cee14d7136a3f6e0fa94e90fc6655441-1787780858-1787770058
+
+#EXTINF:-1 tvg-logo="",UNITE 8 Sports 1
+https://backend.plusbox.tv/UNITE8Sports1/index.fmp4.m3u8?token=49afce666e012f69785c8d5b22344e6635ef616e-5c699e4be171cb6bbad8cb51781993cf-1787780852-1787770052
+
+#EXTINF:-1 tvg-logo="",BT Sports ESPN
+https://backend.plusbox.tv/BTSportsEspn/index.fmp4.m3u8?token=0708bd440807befdb0788bbaf13ee3f9fd4df056-f9ced4c9b7b9c150f991a6f30f29dc9b-1787780847-1787770047
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Star_Sports_logo.svg/512px-Star_Sports_logo.svg.png",Star Sports Select 2
+https://backend.plusbox.tv/StarSportsSelect2/index.fmp4.m3u8?token=f8e627e24388730d4524b231daf1076ae57c5437-be45b3124a85873de561e62ec5688d88-1787780843-1787770043
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Star_Sports_logo.svg/512px-Star_Sports_logo.svg.png",Star Sports Select 1
+https://backend.plusbox.tv/StarSportsSelect1/index.fmp4.m3u8?token=0c4bee5cee51fa9498eee9b3c23051b624b47e57-9c874c176df17a13fac264a6caca228e-1787780836-1787770036
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Star_Sports_logo.svg/512px-Star_Sports_logo.svg.png",Star Sports 2 HD
+https://backend.plusbox.tv/StarSports2HD/index.fmp4.m3u8?token=2e63733634288a8e605f01690600a82aefbc7208-7e0d9e58d5a11fb3fc0e3130ab192275-1787780833-1787770033
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Star_Sports_logo.svg/512px-Star_Sports_logo.svg.png",Star Sports 1 HD
+https://backend.plusbox.tv/StarSports1HD/index.fmp4.m3u8?token=0858c76c6f1f12702b34c88c69cf191999841dfa-6b7322e4c73e0e8adcc827f8ed5165fe-1787780830-1787770030
+
+#EXTINF:-1 tvg-logo="",Sony Ten 3 HD
+https://backend.plusbox.tv/SonyTen3HD/index.fmp4.m3u8?token=cc85714d1547954039f97fd40e23c64f04f97109-fbbc08a6449d386c4add754fe9e3a5c1-1787780824-1787770024
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png",Sony Ten 2 HD
+https://backend.plusbox.tv/SonyTen2HD/index.fmp4.m3u8?token=7ce79d73bff38d4096b591e5c8c2e58755afbca3-6d85f66e6ee987f292ccb73c2ea69cc3-1787780820-1787770020
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/py5j-JQBv9knK3AHxDTY/posters/ea3358b9-2bec-4615-a889-daa2e396c74c.webp",Sony Ten 1 HD
+https://backend.plusbox.tv/SonyTen1HD/index.fmp4.m3u8?token=bd7a67459f3f055dc2953cb0a5ad9eca1f3129d6-7c9e833ecd03abad9264b33003d55e19-1787780817-1787770017
