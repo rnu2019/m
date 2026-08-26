@@ -72,10 +72,10 @@ https://backend.plusbox.tv/IndependentTV/index.fmp4.m3u8?token=5eb3241fa9a636c2a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png",T Sports HD
 https://backend.plusbox.tv/TSportsHD/index.fmp4.m3u8?token=0a95a3ce6cbe3bd7dfa20aa3948d0547c33173ef-c0dda2dfc74ce222536839762ebfe900-1787780667-1787769867
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png",T Sports
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/102.png",T Sports
 https://backend.plusbox.tv/TSports/index.fmp4.m3u8?token=2bf9c8ada2445214e2840ba062a097e829507f16-9a7aecf9f06af5a6dd2c9d39b147f455-1787780663-1787769863
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png",T Sports 2
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/102.png",T Sports 2
 https://backend.plusbox.tv/TSports/index.fmp4.m3u8?token=0daa7d1be123d80853270a1d3afbc204b933532c-a5364290945705973485db3204cc4b0b-1787780659-1787769859
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/cd/Ekushey_Television_logo_2000-2002%2C_2007.png",Ekushey TV
@@ -86,9 +86,6 @@ https://backend.plusbox.tv/EkattorTV/index.fmp4.m3u8?token=9b1a90cfaf76b78ed3487
 
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/desh-tv.png",Desh TV
 https://backend.plusbox.tv/DeshTV/index.fmp4.m3u8?token=8461c1f868fc05591e026d3bb2d8ac17c88b10bb-7c90f5d1e482bb6ed164106dcfc53ee6-1787780650-1787769850
-
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/desh-tv.png",Desh TV 2
-https://backend.plusbox.tv/DeshTV/index.fmp4.m3u8?token=dc95f2af1bf60ffd7b7dc53f6365d9e9827d0212-c23d71d5a7dbb56309cbd574c49a8a94-1787780640-1787769840
 
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png",Deepto TV
 https://backend.plusbox.tv/DeeptoTV/index.fmp4.m3u8?token=ead6fde8c6c6f1387e91d355f675ae6b445f415d-61dc3274e28b33a91754d258db7eb726-1787780637-1787769837
@@ -144,19 +141,19 @@ https://backend.plusbox.tv/UNITE8Sports1/index.fmp4.m3u8?token=49afce666e012f697
 #EXTINF:-1 tvg-logo="",BT Sports ESPN
 https://backend.plusbox.tv/BTSportsEspn/index.fmp4.m3u8?token=0708bd440807befdb0788bbaf13ee3f9fd4df056-f9ced4c9b7b9c150f991a6f30f29dc9b-1787780847-1787770047
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Star_Sports_logo.svg/512px-Star_Sports_logo.svg.png",Star Sports Select 2
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/26.png",Star Sports Select 2
 https://backend.plusbox.tv/StarSportsSelect2/index.fmp4.m3u8?token=f8e627e24388730d4524b231daf1076ae57c5437-be45b3124a85873de561e62ec5688d88-1787780843-1787770043
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Star_Sports_logo.svg/512px-Star_Sports_logo.svg.png",Star Sports Select 1
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/25.png",Star Sports Select 1
 https://backend.plusbox.tv/StarSportsSelect1/index.fmp4.m3u8?token=0c4bee5cee51fa9498eee9b3c23051b624b47e57-9c874c176df17a13fac264a6caca228e-1787780836-1787770036
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Star_Sports_logo.svg/512px-Star_Sports_logo.svg.png",Star Sports 2 HD
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/26.png",Star Sports 2 HD
 https://backend.plusbox.tv/StarSports2HD/index.fmp4.m3u8?token=2e63733634288a8e605f01690600a82aefbc7208-7e0d9e58d5a11fb3fc0e3130ab192275-1787780833-1787770033
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Star_Sports_logo.svg/512px-Star_Sports_logo.svg.png",Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/25.png",Star Sports 1 HD
 https://backend.plusbox.tv/StarSports1HD/index.fmp4.m3u8?token=0858c76c6f1f12702b34c88c69cf191999841dfa-6b7322e4c73e0e8adcc827f8ed5165fe-1787780830-1787770030
 
-#EXTINF:-1 tvg-logo="",Sony Ten 3 HD
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/22.png",Sony Ten 3 HD
 https://backend.plusbox.tv/SonyTen3HD/index.fmp4.m3u8?token=cc85714d1547954039f97fd40e23c64f04f97109-fbbc08a6449d386c4add754fe9e3a5c1-1787780824-1787770024
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png",Sony Ten 2 HD
