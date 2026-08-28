@@ -1,69 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1787821157540x302.jpg" group-title="Football" , Barcelona Vs Athletic
-https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football" , PREMIERE2 SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-KODIPROP:inputstream.adaptive.license_type=clearkey
-KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football" , BEIN3 SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-KODIPROP:inputstream.adaptive.license_type=clearkey
-KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football" , D SPORTS [60FPS]
-KODIPROP:inputstream.adaptive.license_type=clearkey
-KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football" , CazéTV FHD
-KODIPROP:inputstream.adaptive.license_type=clearkey
-KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football" , FANCODE1 FHD
-KODIPROP:inputstream.adaptive.license_type=clearkey
-KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football" , D SPORTS + FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-KODIPROP:inputstream.adaptive.license_type=clearkey
-KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football" , SETANTA SPORTS FHD
-KODIPROP:inputstream.adaptive.license_type=clearkey
-KODIPROP:inputstream.adaptive.license_key=b62e606e6b577a47c0e3bd7e8bb5f979:0827a71f8cc3d9ee1074e6b9cd8ffdb0
-https://tvcdn.tv.telia.lt/live/eds/Setanta_Sports_HD_H/DASH_5_CPIX_NPVR/Setanta_Sports_HD_H.mpd
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football" , ESPN DEPORTES HD 
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/55314/load-playlist?&.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football" , PREMIER1 SPORTS FHD 
-KODIPROP:inputstream.adaptive.license_type=clearkey
-KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football" , Cazétv2 TV FHD
-KODIPROP:inputstream.adaptive.license_type=clearkey
-KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football" , M+ LaLiga HD 
-https://tmaxapp.site/ligue6sc6/mlaliga1.m3u8
-
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/8/image/dark" group-title="Football" , LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=http://www.fawanews.sc/
-http://193.47.62.52/hls/SAAAQQ.m3u8
-
-
 #EXTINF:-1, The University of Chankharpul (2026)
 https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20The%20University%20of%20Chankharpul%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p%20ESub.mkv
 
@@ -90,4 +26,31 @@ https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20The%20Un
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/r512xdTd9aXjpIxjhvJYvIb.jpg", Uyir
 
+
+#EXTINF:-1 tvg-logo="https://www.ctghall.com/content-images/tv-shows/posters//QWbPaDxiB6LW2LjASknzYBvjMj.jpg", Daredevil S1E1 Into the Ring
+https://fs.plus.net.bd/Shows/Tv-Shows/Marvel%27s%20Daredevil%20%282015%29/Season%201/Daredevil.S01E01.Into.the.Ring.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://www.ctghall.com/content-images/tv-shows/posters//QWbPaDxiB6LW2LjASknzYBvjMj.jpg", Daredevil S1E2 Cut Man
+https://fs.plus.net.bd/Shows/Tv-Shows/Marvel%27s%20Daredevil%20%282015%29/Season%201/Daredevil.S01E02.Cut.Man.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://www.ctghall.com/content-images/tv-shows/posters//QWbPaDxiB6LW2LjASknzYBvjMj.jpg", Daredevil S1E3 Rabbit in a Snowstorm
+https://fs.plus.net.bd/Shows/Tv-Shows/Marvel%27s%20Daredevil%20%282015%29/Season%201/Daredevil.S01E03.Rabbit.in.a.Snowstorm.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://www.ctghall.com/content-images/tv-shows/posters//QWbPaDxiB6LW2LjASknzYBvjMj.jpg", Daredevil S1E4 In the Blood
+https://fs.plus.net.bd/Shows/Tv-Shows/Marvel%27s%20Daredevil%20%282015%29/Season%201/Daredevil.S01E04.In.the.Blood.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://www.ctghall.com/content-images/tv-shows/posters//QWbPaDxiB6LW2LjASknzYBvjMj.jpg", Daredevil S1E5 World on Fire
+https://fs.plus.net.bd/Shows/Tv-Shows/Marvel%27s%20Daredevil%20%282015%29/Season%201/Daredevil.S01E05.World.on.Fire.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://www.ctghall.com/content-images/tv-shows/posters//QWbPaDxiB6LW2LjASknzYBvjMj.jpg", Daredevil S1E6 Condemned
+https://fs.plus.net.bd/Shows/Tv-Shows/Marvel%27s%20Daredevil%20%282015%29/Season%201/Daredevil.S01E06.Condemned.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://www.ctghall.com/content-images/tv-shows/posters//QWbPaDxiB6LW2LjASknzYBvjMj.jpg", Daredevil S1E7 Stick
+https://fs.plus.net.bd/Shows/Tv-Shows/Marvel%27s%20Daredevil%20%282015%29/Season%201/Daredevil.S01E07.Stick.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://www.ctghall.com/content-images/tv-shows/posters//QWbPaDxiB6LW2LjASknzYBvjMj.jpg", Daredevil S1E8 Shadows in the Glass
+https://fs.plus.net.bd/Shows/Tv-Shows/Marvel%27s%20Daredevil%20%282015%29/Season%201/Daredevil.S01E08.Shadows.in.the.Glass.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://www.ctghall.com/content-images/tv-shows/posters//QWbPaDxiB6LW2LjASknzYBvjMj.jpg", Daredevil S1E9 Speak of the Devil
+https://fs.plus.net.bd/Shows/Tv-Shows/Marvel%27s%20Daredevil%20%282015%29/Season%201/Daredevil.S01E09.Speak.of.the.Devil.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://www.ctghall.com/content-images/tv-shows/posters//QWbPaDxiB6LW2LjASknzYBvjMj.jpg", Daredevil S1E10 Nelson v. Murdock
+https://fs.plus.net.bd/Shows/Tv-Shows/Marvel%27s%20Daredevil%20%282015%29/Season%201/Daredevil.S01E10.Nelson.v.Murdock.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://www.ctghall.com/content-images/tv-shows/posters//QWbPaDxiB6LW2LjASknzYBvjMj.jpg", Daredevil S1E11 The Path of the Righteous
+https://fs.plus.net.bd/Shows/Tv-Shows/Marvel%27s%20Daredevil%20%282015%29/Season%201/Daredevil.S01E11.The.Path.of.the.Righteous.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://www.ctghall.com/content-images/tv-shows/posters//QWbPaDxiB6LW2LjASknzYBvjMj.jpg", Daredevil S1E12 The Ones We Leave Behind
+https://fs.plus.net.bd/Shows/Tv-Shows/Marvel%27s%20Daredevil%20%282015%29/Season%201/Daredevil.S01E12.The.Ones.We.Leave.Behind.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
+#EXTINF:-1 tvg-logo="https://www.ctghall.com/content-images/tv-shows/posters//QWbPaDxiB6LW2LjASknzYBvjMj.jpg", Daredevil S1E13 Daredevil
+https://fs.plus.net.bd/Shows/Tv-Shows/Marvel%27s%20Daredevil%20%282015%29/Season%201/Daredevil.S01E13.Daredevil.720p.WEBRip.2CH.x265.HEVC-PSA.mkv
 
