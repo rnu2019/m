@@ -5,92 +5,104 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.86e8af0c-b77b-4ec2-8fe5-1b7e6e519d0a/38/BOXART-16X9/en-GB/1920x1080._UR1920,1080_.png" tvg-name="Levante vs Barcelona 2" group-title="Sports",Levante vs Barcelona 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+
+
+|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Manchester%20United%20Vs%20Manchester%20City.jpg" group-title="Football", Manchester United Vs Manchester City - FUBO SPORTS FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#KODIPROP:inputstream.adaptive.license_key=c387c5521edf61057dbdda6bcfa7b6d0:24738f6cc7f70b5c7bf94b2667ba35fc
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/u3yyxpyqxr/out/v1/63f0844e26d046ab88a2b07df145e87c/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Manchester%20United%20Vs%20Manchester%20City.jpg" group-title="Football", Manchester United Vs Manchester City - SKY EPL HD
+#EXTVLCOPT:http-user-agent=Mozilla
+https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Manchester%20United%20Vs%20Manchester%20City.jpg" group-title="Football", Manchester United Vs Manchester City - SKY SPORT HD
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Barcelona%20Vs%20Levante%20UD.jpg" group-title="Football", Barcelona Vs Levante UD - beIN2 ENGLISH FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?
+https://chatgpt.hereisman.net/playlist/56410/load-playlist?&.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Manchester%20United%20Vs%20Manchester%20City.jpg" group-title="Football", Manchester United Vs Manchester City - ARABIC HD
+https://hrthrtjhrtijkhiurt.chkgjkg.online/hls/11.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Manchester%20United%20Vs%20Manchester%20City.jpg" group-title="Football", Manchester United Vs Manchester City - FASTER 2TV+ HD
+#EXTVLCOPT:http-referrer=https://player.up909.com/
+https://live.uu6611.com/live/hd-en-1-4558548.m3u8?txSecret=ab95430ab757a50a521c364bfc743413&txTime=6AA7010A
 
-#EXTINF:-1 tvg-id="tapmad-16954" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17892143281020x576.jpg" group-title="Football", Levante vs Barcelona | LaLiga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/
-
-
-
-
-
-#EXTINF:-1 tvg-id="43757" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Levante%20vs%20Barcelona.jpg" group-title="LIVE", Levante vs Barcelona - La Liga [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0017-hd/chunks.m3u8?is_vip=false&token=1789395458-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-10542873466b4ee46dabebbae8ec4ed6
-
-#EXTINF:-1 tvg-id="43757" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Levante%20vs%20Barcelona.jpg" group-title="LIVE", Levante vs Barcelona - La Liga [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b6c031c11facd0017/chunks.m3u8?is_vip=false&token=1789395458-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e770471accf6a9e9694706e831281e15
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Barcelona%20Vs%20Levante%20UD.jpg" group-title="Football", Barcelona Vs Levante UD - PREMIER1 SPORTS FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Barcelona%20Vs%20Levante%20UD.jpg" group-title="Football", Barcelona Vs Levante UD - ESPN DEPORTES HD
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/56401/load-playlist?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Barcelona%20Vs%20Levante%20UD.jpg" group-title="Football", Barcelona Vs Levante UD - PREMIERE2 SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Barcelona%20Vs%20Levante%20UD.jpg" group-title="Football", Barcelona Vs Levante UD - CAZE TV FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Barcelona%20Vs%20Levante%20UD.jpg" group-title="Football", Barcelona Vs Levante UD - FANCODE FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Barcelona%20Vs%20Levante%20UD.jpg" group-title="Football", Barcelona Vs Levante UD - D SPORTS + FHD.
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Barcelona%20Vs%20Levante%20UD.jpg" group-title="Football", Barcelona Vs Levante UD - BEIN2 ARABIC HD
-https://tmaxapp.site/8wirwjs76erftg/bein2ar.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Barcelona%20Vs%20Levante%20UD.jpg" group-title="Football", Barcelona Vs Levante UD - ESPN DEPORTES (SD)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream5.pro/hls/377qj1h2727.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Barcelona%20Vs%20Levante%20UD.jpg" group-title="Football", Barcelona Vs Levante UD - ESPN DEPORTES (SD)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream2.pro/hls/377qj1h2727.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Barcelona%20Vs%20Levante%20UD.jpg" group-title="Football", Barcelona Vs Levante UD - LOW QUALITY (USE VPN)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Manchester%20United%20Vs%20Manchester%20City.jpg" group-title="Football", Manchester United Vs Manchester City - LOW QUALITY (USE VPN)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/CYYYYQq.m3u8?
+http://193.47.62.59/hls/CYYYYQY.m3u8?
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Barcelona%20Vs%20Levante%20UD.jpg" group-title="Football", Barcelona Vs Levante UD - HD QUALITY 4
-https://www.rtmpcdn.com/live/88f9cc19-3495-485d-90ed-89fd97e6544d.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Manchester%20United%20Vs%20Manchester%20City.jpg" group-title="Football", Manchester United Vs Manchester City - PREMIER LEAGUE HD
+https://tmaxapp.site/8wirwjs76erftg/skysportspl004545vgb.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Manchester%20United%20Vs%20Manchester%20City.jpg" group-title="Football", Manchester United Vs Manchester City - USA NETWORK
+https://tmaxapp.site/8wirwjs76erftg/usanetwodfgsdfsark.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Manchester%20United%20Vs%20Manchester%20City.jpg" group-title="Football", Manchester United Vs Manchester City - SKY MAIN EVENT HD
+https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent005adsf.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Manchester%20United%20Vs%20Manchester%20City.jpg" group-title="Football", Manchester United Vs Manchester City - BEIN1 ARABIC HD
+https://tmaxapp.site/8wirwjs76erftg/bein1ar.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Manchester%20United%20Vs%20Manchester%20City.jpg" group-title="Football", Manchester United Vs Manchester City - ESPN1 ARG FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Manchester%20United%20Vs%20Manchester%20City.jpg" group-title="Football", Manchester United Vs Manchester City - DAZN1 ES HD
+https://tmaxapp.site/8wirwjs76erftg/dazn1es.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Manchester%20United%20Vs%20Manchester%20City.jpg" group-title="Football", Manchester United Vs Manchester City - TV QUALITY
+http://162.251.160.53:8089/1189/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Manchester%20United%20Vs%20Manchester%20City.jpg" group-title="Football", Manchester United Vs Manchester City - HD QUALITY
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://edgestream1.pro/hls/24SDAZFcsqnj24.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Manchester%20United%20Vs%20Manchester%20City.jpg" group-title="Football", Manchester United Vs Manchester City - FASTER LIVE
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/7f1c50a1-3f2a-44eb-b10f-8e630a221c89.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Manchester%20United%20Vs%20Manchester%20City.jpg" group-title="Football", Manchester United Vs Manchester City - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.50/hls/CYYYYQY.m3u8?
+
+
+
+
+#EXTINF:-1 tvg-id="43312" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manchester%20United%20vs%20Manchester%20City.jpg" group-title="LIVE", Manchester United vs Manchester City - Premier League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/156/720p/chunks.m3u8?is_vip=false&token=1789401753-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cf7940808adc6248ecb6dcea3ed2df69
+
+#EXTINF:-1 tvg-id="43312" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manchester%20United%20vs%20Manchester%20City.jpg" group-title="LIVE", Manchester United vs Manchester City - Premier League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/144253/720p/chunks.m3u8?is_vip=false&token=1789401754-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a98bb2bc250865a7c599ebdbe672bee6
+
+#EXTINF:-1 tvg-id="43312" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manchester%20United%20vs%20Manchester%20City.jpg" group-title="LIVE", Manchester United vs Manchester City - Premier League [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1-6a85cc6b8f7c293f9fe4a54b-hd/720p/chunks.m3u8?is_vip=false&token=1789401754-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f587fe5cc1a3b87370bbee714d1ed85c
+
+#EXTINF:-1 tvg-id="43312" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manchester%20United%20vs%20Manchester%20City.jpg" group-title="LIVE", Manchester United vs Manchester City - Premier League [Server 4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a54b-hd/chunks.m3u8?is_vip=false&token=1789401755-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-93e517fd5d7e861724ee9e8deadb767b
+
+#EXTINF:-1 tvg-id="43312" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manchester%20United%20vs%20Manchester%20City.jpg" group-title="LIVE", Manchester United vs Manchester City - Premier League [Server 5]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a54b-fhd/chunks.m3u8?is_vip=false&token=1789401756-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3dca87a29bac4de59666bfb9c864baeb
+
+#EXTINF:-1 tvg-id="43312" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manchester%20United%20vs%20Manchester%20City.jpg" group-title="LIVE", Manchester United vs Manchester City - Premier League [Server 6]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a54b/chunks.m3u8?is_vip=false&token=1789401756-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-461d418b6f1805ed1dcdc91e5a763a77
+
+#EXTINF:-1 tvg-id="43312" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manchester%20United%20vs%20Manchester%20City.jpg" group-title="LIVE", Manchester United vs Manchester City - Premier League [Server 7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a54b-backup/chunks.m3u8?is_vip=false&token=1789401757-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-90dbd6a79b4bb738696152070ebff3eb
