@@ -4,9 +4,12 @@ http://sm-monirul.xyz/@monirul_Islam_SM/server/live.php?id=star_news&sm=.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png",Star News
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="", 
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iz2YRPTx3sE0jjhXshCtdmw5BYJ.jpg", Headline
 https://pub-d951251cba29496eaf96b3f664583be0.r2.dev/CINEFREAK.TOP%20-%20Headline%20%282026%29%20S01%20WEB-DL%20%5BBengali%5D%20HC%201080p%20ESub.mkv
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eFZ3xMTtJfWBVdAukb2EHV2R3yY.png", Lokah Chapter 1: Chandra
+https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Lokah%20Chapter%201%20Chandra%20%282025%29%20WEB-DL%20%5BHindi-Malayalam%5D%20JHS%20HQ%201080p%20ESub.mkv
 
 |User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/
 
