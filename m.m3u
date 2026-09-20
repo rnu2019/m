@@ -11,8 +11,9 @@ https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Lokah%20
 
 |User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/
 
-#EXTINF:-1 tvg-id="43772" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atletico%20Madrid%20vs%20Real%20Madrid.jpg" group-title="LIVE", Atletico Madrid vs Real Madrid
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/
+
+
+
 
 #EXTINF:-1 tvg-id="43772" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atletico%20Madrid%20vs%20Real%20Madrid.jpg" group-title="LIVE", Atletico Madrid vs Real Madrid
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/
@@ -20,17 +21,38 @@ https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8|User-Agen
 #EXTINF:-1 tvg-id="43772" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atletico%20Madrid%20vs%20Real%20Madrid.jpg" group-title="LIVE", Atletico Madrid vs Real Madrid - La Liga [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b3c-hd/chunks.m3u8?is_vip=false&token=1790000275-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5036b16c6b94b6cf0f2da1d259d4c866
+https://livecdn-tc-iptv.rumsport10.live/live_abr/271340/720p/chunks.m3u8?is_vip=false&token=1790002948-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8b5f3806f90cbdf2240d201ef9f204ad
 
 #EXTINF:-1 tvg-id="43772" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atletico%20Madrid%20vs%20Real%20Madrid.jpg" group-title="LIVE", Atletico Madrid vs Real Madrid - La Liga [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b3c-fancode/chunks.m3u8?is_vip=false&token=1790000276-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0edfabf62aa51281b50bf0f98845d0a2
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1-6a8f06987cb66c539aa09b3c-fancode/720p/chunks.m3u8?is_vip=false&token=1790002949-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1dabd02d1532cfa2e6ee57dd8de0e045
 
 #EXTINF:-1 tvg-id="43772" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atletico%20Madrid%20vs%20Real%20Madrid.jpg" group-title="LIVE", Atletico Madrid vs Real Madrid - La Liga [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b3c/chunks.m3u8?is_vip=false&token=1790000277-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e8a4a9d95242e8eca01beb8c857b92f5
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b3c-hd/chunks.m3u8?is_vip=false&token=1790002950-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-570542f5e32e0150ce0cb7db0253ec05
+
+#EXTINF:-1 tvg-id="43772" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atletico%20Madrid%20vs%20Real%20Madrid.jpg" group-title="LIVE", Atletico Madrid vs Real Madrid - La Liga [Server 4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b3c-fancode/chunks.m3u8?is_vip=false&token=1790002950-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-77334846f41d0b9fedfc94cc2ba199bc
+
+#EXTINF:-1 tvg-id="43772" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atletico%20Madrid%20vs%20Real%20Madrid.jpg" group-title="LIVE", Atletico Madrid vs Real Madrid - La Liga [Server 5]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b3c/chunks.m3u8?is_vip=false&token=1790002951-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2ccbb3fec3bddee398294e173eafe740
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Madrid%20Vs%20Real%20Madrid.jpg" group-title="Football", Atlético Madrid Vs Real Madrid - TSN SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Madrid%20Vs%20Real%20Madrid.jpg" group-title="Football", Atlético Madrid Vs Real Madrid - DAZN (ESPANOL + ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f8b0738068e61ff4feca5dc820677a7:bc226653aad2fa8f2b7ff46fc5d5c276
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/yhsx3injuy/out/v1/187117ca0c064ec99cd55e2cf80c405f/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Madrid%20Vs%20Real%20Madrid.jpg" group-title="Football", Atlético Madrid Vs Real Madrid - BeIN2 SPORTS FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -42,55 +64,75 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Madrid%20Vs%20Real%20Madrid.jpg" group-title="Football", Atlético Madrid Vs Real Madrid - FANCODE FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Madrid%20Vs%20Real%20Madrid.jpg" group-title="Football", Atlético Madrid Vs Real Madrid - CAZE TV2 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Madrid%20Vs%20Real%20Madrid.jpg" group-title="Football", Atlético Madrid Vs Real Madrid - CazéTV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Madrid%20Vs%20Real%20Madrid.jpg" group-title="Football", Atlético Madrid Vs Real Madrid - D SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Madrid%20Vs%20Real%20Madrid.jpg" group-title="Football", Atlético Madrid Vs Real Madrid - ESPN ENGLISH HD
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/56802/load-playlist?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Madrid%20Vs%20Real%20Madrid.jpg" group-title="Football", Atlético Madrid Vs Real Madrid - ESPN DEPORTES HD
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/56801/load-playlist?&.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Madrid%20Vs%20Real%20Madrid.jpg" group-title="Football", Atlético Madrid Vs Real Madrid - FASTER TV+ HD
+#EXTVLCOPT:http-referrer=https://player.up909.com/
+https://live.uu6611.com/live/hd-en-1-4565421.m3u8?txSecret=0ff06078ddc8722f12e7c2f04fe870ee&txTime=6AB02838
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Madrid%20Vs%20Real%20Madrid.jpg" group-title="Football", Atlético Madrid Vs Real Madrid - ESPN Español HD
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://edgestream1.pro/hls/377qj1h2727.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Madrid%20Vs%20Real%20Madrid.jpg" group-title="Football", Atlético Madrid Vs Real Madrid - ESPN ENGLISH HD
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://edgestream6.pro/hls/griogoehvn2.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Madrid%20Vs%20Real%20Madrid.jpg" group-title="Football", Atlético Madrid Vs Real Madrid - LOW QUALITY (USE VPN)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/CIII.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Madrid%20Vs%20Real%20Madrid.jpg" group-title="Football", Atlético Madrid Vs Real Madrid - FASTER TV
+#EXTVLCOPT:http-referrer=https://player.up909.com/
+https://live.uu6611.com/live/hd-en-1-4565421.m3u8?txSecret=0ff06078ddc8722f12e7c2f04fe870ee&txTime=6AB02838
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Madrid%20Vs%20Real%20Madrid.jpg" group-title="Football", Atlético Madrid Vs Real Madrid - HD QUALITY
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://www.rtmpcdn.com/live/ca6b70bb-aa18-4141-a5ab-e7ec91ade080.m3u8?
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Madrid%20Vs%20Real%20Madrid.jpg" group-title="Football", Atlético Madrid Vs Real Madrid - CAZE TV 1FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dftidtyzam/out/v1/9831c30f5dbe4d36810b62714432ecdb/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Madrid%20Vs%20Real%20Madrid.jpg" group-title="Football", Atlético Madrid Vs Real Madrid - CAZE TV3 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd
+
 #EXTINF:-1 tvg-logo="" tvg-name="Real Madrid vs Atletico Madrid (2)" group-title="Sports",Real Madrid vs Atletico Madrid (2)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 https://chatgpt.hereisman.net/playlist/56802/load-playlist-multi?&.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Bournemouth%20Vs%20Liverpool%20FC.jpg" group-title="Football", Bournemouth Vs Liverpool FC - FUBO SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Bournemouth%20Vs%20Liverpool%20FC.jpg" group-title="Football", Bournemouth Vs Liverpool FC - HD QUALITY
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/56798/load-playlist?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Bournemouth%20Vs%20Liverpool%20FC.jpg" group-title="Football", Bournemouth Vs Liverpool FC - HD QUALITY 4
-https://www.rtmpcdn.com/live/c482b572-08ff-41f1-a3e8-fdbd06b7ffdd.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Bournemouth%20Vs%20Liverpool%20FC.jpg" group-title="Football", Bournemouth Vs Liverpool FC - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.50/hls/GLLLQQ.m3u8?
-#EXTINF:-1 tvg-id="43322" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bournemouth%20vs%20Liverpool.jpg" group-title="LIVE", Bournemouth vs Liverpool - Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f0698daf8f9c59c061d09-hd/chunks.m3u8?is_vip=false&token=1789994856-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-748e1f18670993ff22f78e0c9d009c03
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Manchester%20City%20Vs%20Sunderland.jpg" group-title="Football", Manchester City Vs Sunderland - SKY PREMIER FHD
-#EXTVLCOPT:http-user-agent=Mozilla
-https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=wGgNqR-alKfWMSte5-dhiA&e=2089869968&scheme=https
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Manchester%20City%20Vs%20Sunderland.jpg" group-title="Football", Manchester City Vs Sunderland - HD QUALITY EPL
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
-https://chatgpt.hereisman.net/playlist/56797/load-playlist?&.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Manchester%20City%20Vs%20Sunderland.jpg" group-title="Football", Manchester City Vs Sunderland - NBC SPORTS FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Manchester%20City%20Vs%20Sunderland.jpg" group-title="Football", Manchester City Vs Sunderland - HD QUALITY 4
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-https://www.rtmpcdn.com/live/e5fd48b7-2ea8-4d3c-a6f0-299023796ac0.m3u8?
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Manchester%20City%20Vs%20Sunderland.jpg" group-title="Football", Manchester City Vs Sunderland - LOW QUALITY (USE VPN)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.44/hls/GLLLQQQQ.m3u8?
-#EXTINF:-1 tvg-id="43318" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manchester%20City%20vs%20Sunderland.jpg" group-title="LIVE", Manchester City vs Sunderland - Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522e4f896100fb58091-hd/chunks.m3u8?is_vip=false&token=1789994850-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-aa18479a89006880e03465003851a41c
 
 
 
