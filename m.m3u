@@ -11,6 +11,21 @@ https://pub-e2976e423f3545829ba627b7ab84b5a6.r2.dev/CINEFREAK.TOP%20-%20Lokah%20
 
 |User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/
 
+#EXTINF:-1 tvg-id="43772" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atletico%20Madrid%20vs%20Real%20Madrid.jpg" group-title="LIVE", Atletico Madrid vs Real Madrid - La Liga [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b3c-hd/chunks.m3u8?is_vip=false&token=1790000275-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5036b16c6b94b6cf0f2da1d259d4c866
+
+#EXTINF:-1 tvg-id="43772" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atletico%20Madrid%20vs%20Real%20Madrid.jpg" group-title="LIVE", Atletico Madrid vs Real Madrid - La Liga [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b3c-fancode/chunks.m3u8?is_vip=false&token=1790000276-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0edfabf62aa51281b50bf0f98845d0a2
+
+#EXTINF:-1 tvg-id="43772" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atletico%20Madrid%20vs%20Real%20Madrid.jpg" group-title="LIVE", Atletico Madrid vs Real Madrid - La Liga [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b3c/chunks.m3u8?is_vip=false&token=1790000277-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e8a4a9d95242e8eca01beb8c857b92f5
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Atl%C3%A9tico%20Madrid%20Vs%20Real%20Madrid.jpg" group-title="Football", Atlético Madrid Vs Real Madrid - BeIN2 SPORTS FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
@@ -20,11 +35,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-
-#EXTINF:-1 tvg-id="43772" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atletico%20Madrid%20vs%20Real%20Madrid.jpg" group-title="LIVE", Atletico Madrid vs Real Madrid - La Liga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09b3c-hd/chunks.m3u8?is_vip=false&token=1789999375-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b79172c739e8df7df97dfe715b7a1ee3
 
 #EXTINF:-1 tvg-logo="" tvg-name="Real Madrid vs Atletico Madrid (2)" group-title="Sports",Real Madrid vs Atletico Madrid (2)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
